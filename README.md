@@ -2,7 +2,7 @@
 
 ## Project overview
 
-
+![Screencast](docs/resources/screencast.gif)
 
 ## Installation
 
