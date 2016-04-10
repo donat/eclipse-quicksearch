@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Quicksearch
+Bundle-SymbolicName: hu.donat.quicksearch;singleton:=true
+Bundle-Version: 1.0.0.qualifier
+Bundle-Activator: hu.donat.quicksearch.internal.QuicksearchPlugin
+Require-Bundle: org.eclipse.ui,
+ org.eclipse.core.runtime,
+ com.google.guava
+Bundle-RequiredExecutionEnvironment: JavaSE-1.7
+Bundle-ActivationPolicy: lazy
